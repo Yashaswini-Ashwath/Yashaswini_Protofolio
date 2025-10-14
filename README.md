@@ -1,27 +1,27 @@
-# 🧑‍💻 Yashaswini Ashwath – Software Developer
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 150px;">
+      <img src="images/photo.jpg" alt="Yashaswini Ashwath" width="150" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h1>🧑‍💻 Yashaswini Ashwath – Software Developer</h1>
+      <p><strong>📍 Location:</strong> Ulm, Germany<br>
+      Valid German Work Permit – Open to employment opportunities across Germany</p>
+      <p><strong>📬 Contact:</strong><br>
+      📧 Email: yashaswini.gajendra@gmail.com<br>
+      📞 Phone: (+49) 15510062125<br>
+      🔗 <a href="https://linkedin.com/in/yashaswiniashwath">LinkedIn</a><br>
+      💻 <a href="https://github.com/Yashaswini-Ashwath">GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
-
-![Yashaswini Ashwath](images/profile.jpg)
-
----
-
-## 📍 Location
-**Ulm, Germany**  
-Valid German Work Permit – Open to full-time opportunities across Germany
-
----
-
-## 📬 Contact
-- 📧 Email: yashaswini.gajendra@gmail.com  
-- 📞 Phone: (+49) 15510062125  
-- 🔗 [LinkedIn](https://linkedin.com/in/yashaswiniashwath)  
-- 💻 [GitHub](https://github.com/Yashaswini-Ashwath)
 
 ---
 
 ## 🧠 Summary
 
-Fullstack Developer based in Ulm, Germany with 4+ years of experience building secure, scalable web applications. I specialize in React, TypeScript, Angular, Node.js, and cloud-native development. Passionate about solving real-world problems through clean code, agile collaboration, and continuous learning—open to full-time opportunities across Germany.
+Fullstack Developer based in Ulm, Germany with 4+ years of experience building secure, scalable web applications. I specialize in React, TypeScript, Angular, Node.js, and cloud-native development. Passionate about solving real-world problems through clean code, agile collaboration, and continuous learning.
 
 ---
 
@@ -58,6 +58,19 @@ Fullstack Developer based in Ulm, Germany with 4+ years of experience building s
 - Role-based access control and secure coding practices  
 - Real-time data simulation for threat awareness  
 - [GitHub Repo](https://github.com/Yashaswini-Ashwath/ThreatVisualization)
+
+  
+#### 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/login.png" alt="Login Screen" width="400"/></td>
+    <td><img src="images/details.png" alt="Threat Details Screen" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="images/rulemanagement.png" alt="Role Name Management Screen" width="600"/></td>
+  </tr>
+</table>
 
 ### 🤖 AI-Powered SQL Generator using OpenAI API  
 *Sep 2025 – Present*  
@@ -115,5 +128,3 @@ GPA: 7.8 / 10
 - Designed training sessions supporting 50+ participants
 
 ---
-
-Feel free to explore the code, connect with me, or reach out for collaboration opportunities!
