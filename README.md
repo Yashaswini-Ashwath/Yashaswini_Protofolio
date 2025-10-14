@@ -4,18 +4,17 @@
       <img src="images/photo.jpg" alt="Yashaswini Ashwath" width="150" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h1>🧑‍💻 Yashaswini Ashwath – Software Developer</h1>
+      <h1 style="margin-bottom: 0;">🧑‍💻 Yashaswini Ashwath – Software Developer</h1>
       <p><strong>📍 Location:</strong> Ulm, Germany<br>
       Valid German Work Permit – Open to employment opportunities across Germany</p>
       <p><strong>📬 Contact:</strong><br>
-      📧 Email: yashaswini.gajendra@gmail.com<br>
-      📞 Phone: (+49) 15510062125<br>
+      📧 yashaswini.gajendra@gmail.com<br>
+      📞 (+49) 15510062125<br>
       🔗 <a href="https://linkedin.com/in/yashaswiniashwath">LinkedIn</a><br>
       💻 <a href="https://github.com/Yashaswini-Ashwath">GitHub</a></p>
     </td>
   </tr>
 </table>
-
 
 ---
 
