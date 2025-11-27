@@ -20,7 +20,7 @@
 
 ## 🧠 Summary
 
-Fullstack Developer based in Ulm, Germany with 4+ years of experience building secure, scalable web applications. I specialize in React, TypeScript, Angular, Node.js, and cloud-native development. Passionate about solving real-world problems through clean code, agile collaboration, and continuous learning.
+Fullstack Developer based in Ulm, Germany with 4+ years of experience building secure, scalable web applications. I specialize in React, TypeScript, Angular, dotnet, Node.js, and cloud-native development. Passionate about solving real-world problems through clean code, agile collaboration, and continuous learning.
 
 ---
 
