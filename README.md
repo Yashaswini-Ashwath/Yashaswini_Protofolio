@@ -28,7 +28,7 @@ Fullstack Developer based in Ulm, Germany with 4+ years of experience building s
 
 ### Deloitte – Analyst, IT Application Developer  
 *Jun 2022 – Feb 2025*  
-- Led feature development for audit applications using React, Angular, Node.js  
+- Led feature development for audit applications using React, Angular, dotnet core, JavaScript, Typescript and Node.js  
 - Improved delivery speed by 20% and reduced post-release defects by 15%  
 - Ensured compliance with SAST, DAST, and secure coding standards
 
@@ -42,7 +42,7 @@ Fullstack Developer based in Ulm, Germany with 4+ years of experience building s
 ## 🛠️ Skills
 
 **Frontend**: React.js, Angular, TypeScript, JavaScript (ES6), HTML, CSS  
-**Backend**: Node.js, REST APIs, GraphQL, PostgreSQL, SQL  
+**Backend**: Node.js, REST APIs, GraphQL, PostgreSQL, SQL, dotnet  
 **DevOps & Cloud**: Azure, CI/CD, Git, GitHub Actions, Docker  
 **Testing**: Jest, React Testing Library  
 **Tools & Methodologies**: GitLab, GitBash, Agile, Scrum, OWASP, Microservices
