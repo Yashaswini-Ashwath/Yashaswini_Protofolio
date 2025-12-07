@@ -1,7 +1,7 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 150px;">
-      <img src="images/photo.jpg" alt="Yashaswini Ashwath" width="150" />
+      <img src="images/photo.jpeg" alt="Yashaswini Ashwath" width="150" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h1 style="margin-bottom: 0;">🧑‍💻 Yashaswini Ashwath – Software Developer</h1>
